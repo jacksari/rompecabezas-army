@@ -1,0 +1,141 @@
+[
+    {
+        "id": 1,
+        "name": "Tata",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601073947/juego/tata1_xqrocs.png",
+        "point": 200,
+        "cara": false
+    },
+    {   "id": 2,
+        "name": "Tata",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601074010/juego/tata2_hrbxga.png",
+        "point": 200,
+        "cara": false
+    },
+    {
+        "id": 3,
+        "name": "Chimmy",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601077643/juego/chimmy1_rlrjke.png",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 4,
+        "name": "Chimmy",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601077642/juego/chimmy2_dkgm0y.png",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 5,
+        "name": "Cooky",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601077728/juego/cooky1_sk6v01.png",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 6,
+        "name": "Cooky",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601077728/juego/cooky2_me1kwf.png",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 7,
+        "name": "Koya",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601075801/juego/koya_tbbusw.png",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 8,
+        "name": "Koya",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601075799/juego/koya2_jbc2ac.png",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 9,
+        "name": "Mang",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601075796/juego/mang1_svyy4z.png",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 10,
+        "name": "Mang",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601077591/juego/mang2_jgdp9x.png",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 11,
+        "name": "Rj",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601075804/juego/rj1_ofz1gp.png",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 12,
+        "name": "Rj",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601075802/juego/rj2_iyr06q.png",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 13,
+        "name": "Shooky",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601077734/juego/shooky1_rxvusk.png",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 14,
+        "name": "Shooky",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601077735/juego/shooky2_ob3t46.png",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 15,
+        "name": "Van",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601077652/juego/van1_te2hbx.png",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 16,
+        "name": "Van",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601077651/juego/van2_xgtwr4.png",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 17,
+        "name": "BTS",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601079662/juego/6228463e3b59241ea7e1b74e4d1b4bf7_oc9zpw.jpg",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 18,
+        "name": "BTS",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601079662/juego/6228463e3b59241ea7e1b74e4d1b4bf7_oc9zpw.jpg",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 19,
+        "name": "BTS",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601080270/juego/1cc1bd9415063d881d76ab744e790cf1_m9rbvb.jpg",
+        "point": 150,
+        "cara": false
+    },
+    {
+        "id": 20,
+        "name": "BTS",
+        "src": "https://res.cloudinary.com/mikunaalli/image/upload/v1601080270/juego/1cc1bd9415063d881d76ab744e790cf1_m9rbvb.jpg",
+        "point": 150,
+        "cara": false
+    }
+]

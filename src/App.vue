@@ -1,8 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <h1 class="text-xl font-semibold text-gray-500">Rompecabezas Army</h1>
     </div>
     <router-view/>
   </div>
